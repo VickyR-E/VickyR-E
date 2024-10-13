@@ -5,7 +5,7 @@
 <!-- ## Github Contributions 📈 -->
 <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif">
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharif-islam96403&label=Profile%20views&base=1230&abbreviated=true&color=252da1&style=for-the-badge" alt="sharif-islam96403" /> </p>
+
   <h3> About me: </h3>
   
 - 🔭 I am currently working on strengthening the bases in which I have knowledge and knowing more bases that contribute to my professional development.
